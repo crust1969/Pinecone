@@ -1,4 +1,5 @@
 import streamlit as st
+import tenacity
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.embeddings.openai import OpenAIEmbeddings
 #from langchain.vectorstores import Chroma
