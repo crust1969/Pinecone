@@ -1,0 +1,17 @@
+openai
+langchain
+langchain_openai
+chromadb
+docx2txt
+pypdf
+streamlit
+tiktoken
+langchain_experimental
+langchainhub
+pinecone-client
+python-dotenv
+docx2txt
+pypdf
+requests
+numpy
+pandas
