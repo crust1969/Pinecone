@@ -2,7 +2,6 @@ openai
 langchain
 langchain_openai
 tenacity
-tenacity.asyncio
 pinecone
 docx2txt
 pypdf
