@@ -1,7 +1,7 @@
 openai
 langchain
 langchain_openai
-chromadb
+pinecone
 docx2txt
 pypdf
 streamlit
