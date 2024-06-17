@@ -2,7 +2,7 @@ import streamlit as st
 from langchain_community.embeddings import OpenAIEmbeddings
 from langchain.embeddings.openai import OpenAIEmbeddings
 #from langchain.vectorstores import Chroma
-
+pip install -r requirements.txt
 
 # loading PDF, DOCX and TXT files as LangChain Documents
 def load_document(file):
